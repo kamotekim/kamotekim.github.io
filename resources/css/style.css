@@ -1,0 +1,28 @@
+header{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+div {
+    text-align: center;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+#video{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+}
+.video{
+    align-self: auto;
+}
