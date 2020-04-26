@@ -1,9 +1,18 @@
-header{
+header, h1{
     font-family: Verdana;
-    font-weight: normal;
-    font-size: 50px;
     text-align: center;
     color: white;
+    padding: 10px;
+}
+
+header{
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h1{ 
+    font-size: 42px;
+    font-weight: 300;
 }
 
 body{
@@ -17,12 +26,31 @@ a{
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    font-family: Verdana;
 }
 #video{
     display: block;
     width: auto;
     margin: 0 auto;
 }
-.video{
-    align-self: auto;
+
+img{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.slogan{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.logo{
+    color: Gray;
+    font-size: 21px;
+    text-align: right;
+    font-family: verdana;
 }
